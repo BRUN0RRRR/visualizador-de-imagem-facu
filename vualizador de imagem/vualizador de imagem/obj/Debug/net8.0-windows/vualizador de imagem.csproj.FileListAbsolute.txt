@@ -1,0 +1,17 @@
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\bin\Debug\net8.0-windows\vualizador de imagem.exe
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\bin\Debug\net8.0-windows\vualizador de imagem.deps.json
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\bin\Debug\net8.0-windows\vualizador de imagem.runtimeconfig.json
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\bin\Debug\net8.0-windows\vualizador de imagem.dll
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\bin\Debug\net8.0-windows\vualizador de imagem.pdb
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador_de_imagem.Form1.resources
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador_de_imagem.Properties.Resources.resources
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador de imagem.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador de imagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador de imagem.AssemblyInfoInputs.cache
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador de imagem.AssemblyInfo.cs
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador de imagem.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador de imagem.dll
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\refint\vualizador de imagem.dll
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador de imagem.pdb
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\vualizador de imagem.genruntimeconfig.cache
+C:\Users\bruno\source\repos\vualizador de imagem\vualizador de imagem\obj\Debug\net8.0-windows\ref\vualizador de imagem.dll
